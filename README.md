@@ -16,8 +16,8 @@ This project features a Streamlit web app for analyzing Summer and Winter Olympi
 ## Installation
 
 1. Clone the repository:
-   ```bash 
- git clone https://github.com/Anish-Tondchirkar/Olympics-Data-Analysis/tree/main
+   ```bash
+   git clone <www.test.com>
 cd olympic-data-analysis
 pip install -r requirements.txt
 streamlit run olympics_app.py
