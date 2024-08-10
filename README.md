@@ -19,9 +19,15 @@ This project features a Streamlit web app for analyzing Summer and Winter Olympi
    ```bash
    git clone <https://github.com/Anish-Tondchirkar/Olympics-Data-Analysis/tree/main>
 cd olympic-data-analysis
+<br>
 pip install -r requirements.txt
+<br>
 streamlit run olympics_app.py
 
+Dataset : https://drive.google.com/drive/folders/18KyDuBc5w3fqQXmOqvRk9pist5byoAMV?usp=sharing
+<br>
+Data analyzed from 2002 to 2020.
+<br>
 
 
 Usage
